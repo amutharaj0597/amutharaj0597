@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amutha Lakshmi</h1>
-<h3 align="center">A Passionate Full Stack Developer | React | Node | MongoDB | .js</h3>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=A+Passionate+Full+Stack+Developer;React.js+Developer;Node.js+Backend+Engineer;MongoDB+Expert;Building+modern+web+apps+with+🔥" 
+    alt="Dynamic Typing Text" />
+</p>
 
 ---
 
